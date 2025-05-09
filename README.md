@@ -8,6 +8,8 @@ OsTirus is an emulation of the Access Virus TI and Virus TI2 for MacOS by The Us
 
 - Manual
 
+- Test Console 
+
 - A few Presets and Factory Sound Banks from Access.
 
 Home Website: https://dsp56300.wordpress.com
