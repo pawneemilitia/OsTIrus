@@ -1,4 +1,4 @@
-# OsTIrus
+# OsTIrus 1.4.2 MacOS
 
 OsTirus is an emulation of the Access Virus TI and Virus TI2 for MacOS by The Usual Suspects.
 
