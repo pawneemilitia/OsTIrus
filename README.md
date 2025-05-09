@@ -28,5 +28,5 @@ Installation
 
 - LV2:     /Library/Audio/Plug-Ins/LV2
 
-- ROM/Firmware files (typically found in .BIN or .MID format) should be placed in the \roms folder inside the main plugin resource folder or in /Library/Audio/Plug-Ins/VST3
+- ROM/Firmware files (typically found in .BIN or .MID format) should be placed in the /roms folder inside the main plugin resource folder or in /Library/Audio/Plug-Ins/VST3
 
