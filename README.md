@@ -12,4 +12,4 @@ OsTirus is an emulation of the Access Virus TI and Virus TI2 for MacOS by The Us
 
 - A few Presets and Factory Sound Banks from Access.
 
-Extract Archive7z files in Plugins with Keka https://github.com/aonez/Keka
+Extract Archive7z files in Plugins with Keka: https://github.com/aonez/Keka
