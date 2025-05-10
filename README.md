@@ -4,6 +4,8 @@ OsTirus is an emulation of the Access Virus TI and Virus TI2 for MacOS by The Us
 
 ![TheUsualSuspects-OsTIrus - copie](https://github.com/user-attachments/assets/2b0b6a00-08af-4d8c-b4ff-7e5ba74e11e7)
 
+**<ins>Files</ins>**
+
 - ROM
 
 - Manual
@@ -12,9 +14,9 @@ OsTirus is an emulation of the Access Virus TI and Virus TI2 for MacOS by The Us
 
 - A few Presets and Factory Sound Banks from Access.
 
-Installation
+**<ins>Installation</ins>**
 
-- Extract Archive7z files in Plugins with Keka https://github.com/aonez/Keka
+- Extract Archive7z files in Plugins with [Keka](https://github.com/aonez/Keka)
 
 - Place the unzipped/unpackaged plugin files into your appropriate plugin folder(s) used by your DAW(s).
 
@@ -29,4 +31,3 @@ Installation
 - LV2:     /Library/Audio/Plug-Ins/LV2
 
 - ROM/Firmware files (typically found in .BIN or .MID format) should be placed in the /roms folder inside the main plugin resource folder or in /Library/Audio/Plug-Ins/VST3
-
